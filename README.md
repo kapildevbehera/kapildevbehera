@@ -21,24 +21,15 @@ I'm passionate about data science and machine learning. Welcome to my GitHub pro
 
 ## Projects
 
-### [Project Name 1](Link to Project 1)
+Here are some projects I'm proud of:
 
-Short description of the project.
-
-![Project 1](Link to Project 1 Image)
-
-### [Project Name 2](Link to Project 2)
-
-Short description of the project.
-
-![Project 2](Link to Project 2 Image)
-
-### [Project Name 3](Link to Project 3)
-
-Short description of the project.
-
-![Project 3](Link to Project 3 Image)
-
+- [Project 1](Link)
+- [Project 2](Link)
+- [Project 3](Link)
+- [Project 4](Link)
+- [Project 5](Link)
+- [Project 6](Link)
+  
 ## Publications
 
 - [Publication Title 1](Link to Publication 1)
@@ -47,6 +38,5 @@ Short description of the project.
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn Profile)
 
 Feel free to explore my projects and get in touch if you're interested in collaborating or have any questions!
