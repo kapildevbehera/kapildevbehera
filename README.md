@@ -8,7 +8,7 @@ I'm passionate about data science and machine learning. Welcome to my GitHub pro
 - 💼 I'm open to collaborations and job opportunities in data science.
 - 📫 How to reach me: kapildevbehera14@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an introvert
+- ⚡ Fun fact: I am afraid of snakes.
 
 ## Skills
 
